@@ -1,0 +1,15 @@
+1. Using the echo command print in console "Hello World". Here is some info about echo command [https://discuss.codecademy.com/t/what-are-practical-uses-of-the-echo-command/394788]
+
+solution command
+
+2. Create a new directory called new_dir.
+
+solution command
+
+3. Delete/Remove the directory new_dir.
+
+solution command
+
+4. Copy the file sed.txt from the lorem folder and paste it to the folder lorem-copy folder.
+
+solution command
